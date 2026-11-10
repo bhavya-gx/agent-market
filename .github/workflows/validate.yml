@@ -1,0 +1,24 @@
+name: Validate catalog
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Only catalog changes allowed from contributors
+        if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name != github.repository
+        run: |
+          git fetch --no-tags --depth=50 origin ${{ github.base_ref }}
+          changed=$(git diff --name-only origin/${{ github.base_ref }}...HEAD || git diff --name-only FETCH_HEAD HEAD)
+          echo "$changed"
+          bad=$(echo "$changed" | grep -v '^which-agent/catalog/agents.json$' || true)
+          if [ -n "$bad" ]; then echo "Outside contributors may only edit which-agent/catalog/agents.json. Blocked: $bad"; exit 1; fi
+      - name: Validate agents.json
+        run: python3 scripts/validate.py

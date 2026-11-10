@@ -12,11 +12,11 @@ You're drafting your tenth follow-up email of the day in a chat. Which Agent not
 
 **Claude Code**
 ```bash
-git clone https://github.com/OWNER/which-agent.git
+git clone https://github.com/bhavya-in-sf/which-agent.git
 cp -r which-agent/which-agent ~/.claude/skills/
 ```
 
-**Claude.ai and the Claude desktop app**: zip the `which-agent` folder and upload it under Settings, then Capabilities, then Skills.
+**Claude.ai and the Claude desktop app**: download `which-agent-skill.zip` from the [latest release](https://github.com/bhavya-in-sf/which-agent/releases/latest) and upload it under Settings, then Capabilities, then Skills.
 
 **ChatGPT**: follow [chatgpt/README.md](chatgpt/README.md) to set it up as a Custom GPT or Project.
 
@@ -34,3 +34,6 @@ Add an agent with a pull request. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 MIT
+
+## Security
+Plain text only, no tracking. See [SECURITY.md](SECURITY.md).
