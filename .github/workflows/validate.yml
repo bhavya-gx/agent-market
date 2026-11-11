@@ -18,7 +18,7 @@ jobs:
           git fetch --no-tags --depth=50 origin ${{ github.base_ref }}
           changed=$(git diff --name-only origin/${{ github.base_ref }}...HEAD || git diff --name-only FETCH_HEAD HEAD)
           echo "$changed"
-          bad=$(echo "$changed" | grep -v '^which-agent/catalog/agents.json$' || true)
-          if [ -n "$bad" ]; then echo "Outside contributors may only edit which-agent/catalog/agents.json. Blocked: $bad"; exit 1; fi
+          bad=$(echo "$changed" | grep -v '^agent-market/catalog/agents.json$' || true)
+          if [ -n "$bad" ]; then echo "Outside contributors may only edit agent-market/catalog/agents.json. Blocked: $bad"; exit 1; fi
       - name: Validate agents.json
         run: python3 scripts/validate.py

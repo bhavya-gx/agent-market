@@ -1,6 +1,6 @@
 # Adding or updating an agent
 
-1. Fork the repo and edit `which-agent/catalog/agents.json`.
+1. Fork the repo and edit `agent-market/catalog/agents.json`.
 2. Fill every field from the agent's **official site only**. No review blogs, no affiliate pages.
 3. Set `verification.status`:
    - `page_read`: you read the official page. Add today's date as `checked_on`.

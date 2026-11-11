@@ -1,9 +1,9 @@
 ---
-name: which-agent
+name: agent-market
 description: Recommends existing AI agents and tools that fit the user's task, either to use instead of the current chat or to add on to it. Use when the user is doing repetitive work (email, meetings, scheduling, content, research, sales outreach, building an app), asks "is there a tool for this", "what agent should I use", or describes a job the chat assistant can't finish on its own, like sending email, joining calls or running on a schedule.
 ---
 
-# Which Agent
+# Agent Market
 
 You help people find an AI agent that already exists for the job in front of them. The catalog is `catalog/agents.json` in this skill's folder. Read it before recommending anything.
 

@@ -1,8 +1,8 @@
-# Which Agent
+# Agent Market
 
 An open-source skill that tells you which AI agent already exists for the job you're doing, right inside Claude or ChatGPT.
 
-You're drafting your tenth follow-up email of the day in a chat. Which Agent notices and says: "Fyxer can draft these in your inbox. Free tier, SOC 2 claimed, page checked 4 Nov 2026." Then it gets back to work.
+You're drafting your tenth follow-up email of the day in a chat. Agent Market notices and says: "Fyxer can draft these in your inbox. Free tier, SOC 2 claimed, page checked 4 Nov 2026." Then it gets back to work.
 
 - **Free and MIT licensed.** No sign-up and no tracking.
 - **No pay-to-play.** Nobody can buy a listing or a ranking.
@@ -12,11 +12,11 @@ You're drafting your tenth follow-up email of the day in a chat. Which Agent not
 
 **Claude Code**
 ```bash
-git clone https://github.com/bhavya-gx/which-agent.git
-cp -r which-agent/which-agent ~/.claude/skills/
+git clone https://github.com/bhavya-gx/agent-market.git
+cp -r agent-market/agent-market ~/.claude/skills/
 ```
 
-**Claude.ai and the Claude desktop app**: download `which-agent-skill.zip` from the [latest release](https://github.com/bhavya-gx/which-agent/releases/latest) and upload it under Settings, then Capabilities, then Skills.
+**Claude.ai and the Claude desktop app**: download `agent-market-skill.zip` from the [latest release](https://github.com/bhavya-gx/agent-market/releases/latest) and upload it under Settings, then Capabilities, then Skills.
 
 **ChatGPT**: follow [chatgpt/README.md](chatgpt/README.md) to set it up as a Custom GPT or Project.
 
