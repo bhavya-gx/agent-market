@@ -1,6 +1,6 @@
 """Check catalog/agents.json for required fields and allowed values. Run: python3 scripts/validate.py"""
 import json, sys, pathlib
-p = pathlib.Path(__file__).resolve().parent.parent / "which-agent" / "catalog" / "agents.json"
+p = pathlib.Path(__file__).resolve().parent.parent / "agent-market" / "catalog" / "agents.json"
 data = json.loads(p.read_text())
 REQ = ["id","name","category","url","summary","use_cases","tech_level","hosting","verification"]
 ALLOWED = {"tech_level":{"no-code","tutorial","terminal"},"hosting":{"hosted","self-hosted","either"},
