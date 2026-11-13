@@ -780,7 +780,7 @@
         "source": "official site"
       },
       "notes": "SDKs, MCP server and plugins are MIT/Apache; memory engine itself not open source. Free plan is $5 credits/mo.",
-      "source": "Bhavya's content"
+      "source": "creator videos"
     },
     {
       "id": "instantly",
@@ -804,7 +804,7 @@
         "source": "official site"
       },
       "notes": "'Start for free, no credit card' but no free plan described; bundles from $94/mo; Trust Center linked, no certifications named.",
-      "source": "Bhavya's content"
+      "source": "creator videos"
     },
     {
       "id": "polsia",
@@ -828,7 +828,7 @@
         "source": null
       },
       "notes": "Homepage never rendered past a 'Loading... Taking longer than expected' state on two tries; /pricing 404. Only the title 'AI That Runs Your Company While You Sleep' was readable.",
-      "source": "Bhavya's content"
+      "source": "creator videos"
     },
     {
       "id": "manychat",
@@ -852,7 +852,7 @@
         "source": null
       },
       "notes": "HTTP 403 on manychat.com and www.manychat.com.",
-      "source": "Bhavya's content"
+      "source": "creator videos"
     },
     {
       "id": "higgsfield",
@@ -876,7 +876,7 @@
         "source": "official site"
       },
       "notes": "/pricing page rendered no plans (image placeholders only). Homepage shows promos (60% off, unlimited Seedance 2.5 up to 14 days) but no prices; Claude MCP integration; 'Miracle' product marked Soon.",
-      "source": "Bhavya's content"
+      "source": "creator videos"
     },
     {
       "id": "heygen",
@@ -906,7 +906,7 @@
         "source": "official site"
       },
       "notes": "Custom avatars require on-camera identity verification; API for developers; separate HyperFrames product is open source.",
-      "source": "Bhavya's content"
+      "source": "creator videos"
     },
     {
       "id": "keiki",
@@ -931,7 +931,7 @@
         "source": "official site"
       },
       "notes": "Pricing page labels all plans 'proposed' and not yet purchasable; phone lines billed extra ($99 to $300/mo each); page mentions a waitlist that agents can skip; API, SDK and MCP server available;",
-      "source": "Bhavya's content"
+      "source": "creator videos"
     },
     {
       "id": "pumpgtm",
@@ -954,8 +954,8 @@
         "checked_on": "2026-11-13",
         "source": "official site"
       },
-      "notes": "Maintainer's own product; listed with the same checks as every other entry. 7-day trial, card required; first-month meeting guarantee; DFY from $1,740 once; MCP for Claude Code/Cursor/Codex;",
-      "source": "Bhavya's content"
+      "notes": "7-day trial, card required; first-month meeting guarantee; DFY from $1,740 once; MCP for Claude Code, Cursor and Codex; says LinkedIn credentials are never stored.",
+      "source": "creator videos"
     },
     {
       "id": "attio",
@@ -2507,6 +2507,268 @@
       },
       "notes": "No permanent free plan, 7-day trial plus free tools and a free AI audit. Black Friday 60% off banners. Offers done-for-you 'VIP Service' with custom pricing alongside DIY software;",
       "source": "AI Agent Store"
+    },
+    {
+      "id": "mika",
+      "name": "Mika",
+      "category": "personal-assistant",
+      "url": "https://mikaphone.com",
+      "summary": "Android AI assistant that operates apps by looking and tapping",
+      "use_cases": [
+        "admin"
+      ],
+      "tech_level": "tutorial",
+      "hosting": "self-hosted",
+      "free_tier": true,
+      "starting_price": null,
+      "security_claims": [
+        "API keys and memory stored encrypted on "
+      ],
+      "open_source": true,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Apache-2.0, early beta, Android 12+. Bring your own model (DeepSeek, Qwen, Kimi, OpenAI or local). Page warns app automation may breach third-party terms.",
+      "source": "GitHub trending (discovery run 13 Nov 2026)"
+    },
+    {
+      "id": "agentes-chat",
+      "name": "agentes.chat",
+      "category": "workflow-automation",
+      "url": "https://agentes.chat",
+      "summary": "Team chat where people and AI agents share channels",
+      "use_cases": [
+        "admin",
+        "build",
+        "content"
+      ],
+      "tech_level": "no-code",
+      "hosting": "either",
+      "free_tier": true,
+      "starting_price": "$29/mo Personal (or $288/yr)",
+      "security_claims": [
+        "AI keys encrypted on the server, kept aw",
+        "Workspace content not used to train AI m"
+      ],
+      "open_source": true,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "AGPL. Self-hosted version free forever via one-command Docker/Postgres installer; no free cloud plan listed. No SOC 2 mentioned.",
+      "source": "GitHub trending (discovery run 13 Nov 2026)"
+    },
+    {
+      "id": "soduwork",
+      "name": "SoduWork",
+      "category": "workflow-automation",
+      "url": "https://www.soduwork.ai",
+      "summary": "Open-source enterprise AI collaboration platform linking people, AI, systems",
+      "use_cases": [
+        "research",
+        "build",
+        "admin"
+      ],
+      "tech_level": "tutorial",
+      "hosting": "self-hosted",
+      "free_tier": null,
+      "starting_price": null,
+      "security_claims": [],
+      "open_source": true,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Page mostly in Chinese. Desktop and mobile client with plugins. License not named. Enterprise deployment by consultation only; /pricing returns 404.",
+      "source": "GitHub trending (discovery run 13 Nov 2026)"
+    },
+    {
+      "id": "open-net-worth",
+      "name": "Open Net Worth",
+      "category": "finance",
+      "url": "https://opennetworth.ai",
+      "summary": "Open-source wealth tracker with AI agent over your own numbers",
+      "use_cases": [
+        "admin",
+        "research"
+      ],
+      "tech_level": "no-code",
+      "hosting": "self-hosted",
+      "free_tier": true,
+      "starting_price": null,
+      "security_claims": [
+        "No telemetry"
+      ],
+      "open_source": true,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "AGPL-3.0, beta. Installers for macOS, Windows, Linux, plus Docker/Python self-host. Use a local model, an existing Claude Code or Codex plan, or own API key.",
+      "source": "GitHub trending (discovery run 13 Nov 2026)"
+    },
+    {
+      "id": "agentring",
+      "name": "Agentring",
+      "category": "personal-assistant",
+      "url": "https://agentring.io",
+      "summary": "Lets AI agents call or message your Android phone for decisions",
+      "use_cases": [
+        "build",
+        "admin"
+      ],
+      "tech_level": "terminal",
+      "hosting": "either",
+      "free_tier": true,
+      "starting_price": "$12/mo plus tax (Pro)",
+      "security_claims": [
+        "Page says it is upfront about what is no"
+      ],
+      "open_source": true,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Android app, relay and daemon are Apache-2.0; website and dashboard are not. Free: 1 phone, 10 call min/mo, 100 msgs/day. Works with Claude Code, Codex, any MCP client.",
+      "source": "GitHub trending (discovery run 13 Nov 2026)"
+    },
+    {
+      "id": "tucano",
+      "name": "Tucano",
+      "category": "coding",
+      "url": "https://tucano.sh",
+      "summary": "Desktop app running a team of AI agents in channels",
+      "use_cases": [
+        "build"
+      ],
+      "tech_level": "tutorial",
+      "hosting": "either",
+      "free_tier": true,
+      "starting_price": "US$15/mo (Tucano Pro beta, own AI subscription)",
+      "security_claims": [],
+      "open_source": true,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Apache-2.0, Mac/Linux/Windows. Pro with AI included US$32/mo; BRL pricing too (R$79/R$169). Examples (PRs, tests, Sentry, deploys) skew to software teams.",
+      "source": "GitHub trending (discovery run 13 Nov 2026)"
+    },
+    {
+      "id": "momentic",
+      "name": "Momentic",
+      "category": "coding",
+      "url": "https://momentic.ai",
+      "summary": "AI QA agent that tests web and mobile apps, files bugs",
+      "use_cases": [
+        "build"
+      ],
+      "tech_level": "terminal",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$500/mo Scale (includes $500 usage)",
+      "security_claims": [
+        "SOC 2 Type 2, independently audited, on "
+      ],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Free plan includes $50 usage/mo, no card. Names Notion, Quora, Webflow as customers. CLI, YAML tests, MCP server, GitHub PR integration. Enterprise via sales.",
+      "source": "Launch HN (discovery run 13 Nov 2026)"
+    },
+    {
+      "id": "arsaze",
+      "name": "Arsaze",
+      "category": "content",
+      "url": "https://www.arsaze.com",
+      "summary": "AI video editor cutting silences, fillers, adding word-timed captions",
+      "use_cases": [
+        "content"
+      ],
+      "tech_level": "no-code",
+      "hosting": "either",
+      "free_tier": true,
+      "starting_price": null,
+      "security_claims": [
+        "Footage not used to train models without"
+      ],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Paid plans listed but unpriced (monthly, USD, INR via Razorpay). Free: full editor, private projects, no-watermark exports. MCP server repo on GitHub; Tab suggests edits.",
+      "source": "Show HN (discovery run 13 Nov 2026)"
+    },
+    {
+      "id": "design-agent",
+      "name": "Design Agent",
+      "category": "content",
+      "url": "https://github.com/langchain-ai/design-agent",
+      "summary": "Open-source agent making on-brand stills, decks, charts, motion graphics",
+      "use_cases": [
+        "content"
+      ],
+      "tech_level": "terminal",
+      "hosting": "either",
+      "free_tier": true,
+      "starting_price": null,
+      "security_claims": [],
+      "open_source": true,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Apache 2.0 (sidebar and README). Called Content Studio, built on Deep Agents. Pay your model provider; README cites ~50 cents median per request. Managed hosting is paid, beta.",
+      "source": "GitHub trending (discovery run 13 Nov 2026)"
+    },
+    {
+      "id": "lampline",
+      "name": "Lampline",
+      "category": "sales",
+      "url": "https://github.com/C4rohan/Lampline",
+      "summary": "Build, test and run AI phone agents on your own computer",
+      "use_cases": [
+        "sales",
+        "build"
+      ],
+      "tech_level": "terminal",
+      "hosting": "self-hosted",
+      "free_tier": true,
+      "starting_price": null,
+      "security_claims": [
+        "Private by default: no telemetry, bound "
+      ],
+      "open_source": true,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Apache-2.0 (keep NOTICE). pipx install gives the vk CLI; full platform via Docker. Runs free with no API keys; ~20 optional paid providers at cents per call. Claude Code plugin.",
+      "source": "GitHub trending (discovery run 13 Nov 2026)"
     }
   ]
 }
