@@ -1,0 +1,757 @@
+{
+  "version": 1,
+  "updated": "2026-11-04",
+  "agents": [
+    {
+      "id": "openclaw",
+      "name": "OpenClaw",
+      "category": "personal-assistant",
+      "url": "https://openclaw.ai",
+      "summary": "Self-hosted personal assistant that works through your chat apps",
+      "use_cases": [
+        "admin",
+        "inbox",
+        "research"
+      ],
+      "tech_level": "terminal",
+      "hosting": "self-hosted",
+      "free_tier": true,
+      "starting_price": "Free, you pay for the model",
+      "security_claims": [],
+      "open_source": true,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-04",
+        "source": "official site"
+      },
+      "notes": "Full system access is the default. Sandboxing is optional."
+    },
+    {
+      "id": "lindy",
+      "name": "Lindy",
+      "category": "workflow-automation",
+      "url": "https://lindy.ai",
+      "summary": "AI employee for teams, connects to 1,500+ tools",
+      "use_cases": [
+        "inbox",
+        "meetings",
+        "admin"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$29.99/mo (Team)",
+      "security_claims": [
+        "SOC 2 Type II",
+        "HIPAA (Enterprise)"
+      ],
+      "open_source": false,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-04",
+        "source": "official site"
+      },
+      "notes": "Free trial is $50 credits over 7 days."
+    },
+    {
+      "id": "manus",
+      "name": "Manus",
+      "category": "general-agent",
+      "url": "https://manus.im",
+      "summary": "Autonomous agent for slides, sites, research and video",
+      "use_cases": [
+        "research",
+        "content"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": null,
+      "security_claims": [],
+      "open_source": false,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-04",
+        "source": "official site"
+      },
+      "notes": "Meta announced an acquisition in Dec 2025. Closing status not confirmed."
+    },
+    {
+      "id": "perplexity-comet",
+      "name": "Perplexity Comet",
+      "category": "browser-agent",
+      "url": "https://perplexity.ai/comet",
+      "summary": "AI browser that acts as an assistant",
+      "use_cases": [
+        "research",
+        "admin"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": null,
+      "security_claims": [],
+      "open_source": false,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-04",
+        "source": "official site"
+      },
+      "notes": null
+    },
+    {
+      "id": "chatgpt-agent",
+      "name": "ChatGPT agent",
+      "category": "general-agent",
+      "url": "https://chatgpt.com",
+      "summary": "Chat, work, create and code with AI",
+      "use_cases": [
+        "research",
+        "admin",
+        "content"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": null,
+      "security_claims": [],
+      "open_source": false,
+      "works_alongside": "is-an-llm",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-04",
+        "source": "official site"
+      },
+      "notes": "Pricing page blocked the check."
+    },
+    {
+      "id": "claude",
+      "name": "Claude",
+      "category": "general-agent",
+      "url": "https://claude.com/pricing",
+      "summary": "AI assistant on web, desktop and mobile",
+      "use_cases": [
+        "research",
+        "content",
+        "admin"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$17/mo annual (Pro)",
+      "security_claims": [
+        "HIPAA-ready (Enterprise)"
+      ],
+      "open_source": false,
+      "works_alongside": "is-an-llm",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-04",
+        "source": "official site"
+      },
+      "notes": null
+    },
+    {
+      "id": "genspark",
+      "name": "Genspark",
+      "category": "general-agent",
+      "url": "https://genspark.ai",
+      "summary": "Research and slide agent",
+      "use_cases": [
+        "research",
+        "content"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": null,
+      "security_claims": [],
+      "open_source": false,
+      "works_alongside": "both",
+      "verification": {
+        "status": "blocked",
+        "checked_on": "2026-11-04",
+        "source": null
+      },
+      "notes": "Site returned 403."
+    },
+    {
+      "id": "superhuman",
+      "name": "Superhuman",
+      "category": "inbox",
+      "url": "https://superhuman.com",
+      "summary": "Suite of AI work tools: assistant, Mail, Docs",
+      "use_cases": [
+        "inbox"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": null,
+      "security_claims": [],
+      "open_source": false,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-04",
+        "source": "official site"
+      },
+      "notes": "Now a suite. Footer links to Grammarly and GPTZero. No prices shown."
+    },
+    {
+      "id": "fyxer",
+      "name": "Fyxer",
+      "category": "inbox",
+      "url": "https://fyxer.com",
+      "summary": "AI assistant that drafts email replies and takes meeting notes",
+      "use_cases": [
+        "inbox",
+        "meetings"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$37/mo annual (Pro)",
+      "security_claims": [
+        "SOC",
+        "ISO 27001",
+        "HIPAA",
+        "GDPR"
+      ],
+      "open_source": false,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-04",
+        "source": "official site"
+      },
+      "notes": null
+    },
+    {
+      "id": "motion",
+      "name": "Motion",
+      "category": "calendar",
+      "url": "https://usemotion.com",
+      "summary": "AI work platform: tasks, projects, calendar",
+      "use_cases": [
+        "admin",
+        "meetings"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": false,
+      "starting_price": "$19/seat/mo",
+      "security_claims": [
+        "SOC 2 Type 2",
+        "GDPR"
+      ],
+      "open_source": false,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-04",
+        "source": "official site"
+      },
+      "notes": "Trial only."
+    },
+    {
+      "id": "reclaim",
+      "name": "Reclaim",
+      "category": "calendar",
+      "url": "https://reclaim.ai",
+      "summary": "AI calendar that protects focus time and schedules meetings",
+      "use_cases": [
+        "meetings",
+        "admin"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$10/seat/mo annual",
+      "security_claims": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "open_source": false,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-04",
+        "source": "official site"
+      },
+      "notes": "Logo reads 'from Dropbox'."
+    },
+    {
+      "id": "granola",
+      "name": "Granola",
+      "category": "meetings",
+      "url": "https://granola.ai",
+      "summary": "AI notepad for meetings, no bot joins the call",
+      "use_cases": [
+        "meetings"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$14/user/mo (Business)",
+      "security_claims": [],
+      "open_source": false,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-04",
+        "source": "official site"
+      },
+      "notes": "Free plan locks notes older than 30 days."
+    },
+    {
+      "id": "otter",
+      "name": "Otter",
+      "category": "meetings",
+      "url": "https://otter.ai",
+      "summary": "Meeting agent that records, transcribes and summarizes",
+      "use_cases": [
+        "meetings"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$19.99/user/mo (Business)",
+      "security_claims": [],
+      "open_source": false,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-04",
+        "source": "official site"
+      },
+      "notes": null
+    },
+    {
+      "id": "fireflies",
+      "name": "Fireflies",
+      "category": "meetings",
+      "url": "https://fireflies.ai",
+      "summary": "Meeting assistant that transcribes and searches calls",
+      "use_cases": [
+        "meetings"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": null,
+      "security_claims": [
+        "SOC 2 Type II",
+        "ISO 42001",
+        "HIPAA",
+        "GDPR"
+      ],
+      "open_source": false,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-04",
+        "source": "official site"
+      },
+      "notes": "No prices shown."
+    },
+    {
+      "id": "gamma",
+      "name": "Gamma",
+      "category": "content",
+      "url": "https://gamma.app",
+      "summary": "Presentations from a prompt",
+      "use_cases": [
+        "content"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": null,
+      "security_claims": [],
+      "open_source": false,
+      "works_alongside": "both",
+      "verification": {
+        "status": "blocked",
+        "checked_on": "2026-11-04",
+        "source": null
+      },
+      "notes": "Site returned 403."
+    },
+    {
+      "id": "opus-clip",
+      "name": "Opus Clip",
+      "category": "content",
+      "url": "https://opus.pro",
+      "summary": "Turns long videos into captioned short clips",
+      "use_cases": [
+        "content"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$15/mo (Starter)",
+      "security_claims": [],
+      "open_source": false,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-04",
+        "source": "official site"
+      },
+      "notes": null
+    },
+    {
+      "id": "taplio",
+      "name": "Taplio",
+      "category": "content",
+      "url": "https://taplio.com",
+      "summary": "LinkedIn posts, scheduling and engagement",
+      "use_cases": [
+        "content"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": false,
+      "starting_price": "$39/mo (Starter)",
+      "security_claims": [],
+      "open_source": false,
+      "works_alongside": "add-on",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-04",
+        "source": "official site"
+      },
+      "notes": "Has an MCP integration for Claude and ChatGPT."
+    },
+    {
+      "id": "clay",
+      "name": "Clay",
+      "category": "sales",
+      "url": "https://clay.com",
+      "summary": "Data and agentic workflows for go-to-market",
+      "use_cases": [
+        "research",
+        "sales"
+      ],
+      "tech_level": "tutorial",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$54/mo annual (Launch)",
+      "security_claims": [],
+      "open_source": false,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-04",
+        "source": "official site"
+      },
+      "notes": "Pricing page shows conflicting numbers."
+    },
+    {
+      "id": "11x",
+      "name": "11x",
+      "category": "sales",
+      "url": "https://11x.ai",
+      "summary": "AI revenue agents for inbound and outbound",
+      "use_cases": [
+        "sales"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": null,
+      "security_claims": [],
+      "open_source": false,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-04",
+        "source": "official site"
+      },
+      "notes": "Demo only, no public pricing."
+    },
+    {
+      "id": "zapier-agents",
+      "name": "Zapier Agents",
+      "category": "workflow-automation",
+      "url": "https://zapier.com/agents",
+      "summary": "AI teammates across 9,000+ apps",
+      "use_cases": [
+        "admin",
+        "inbox"
+      ],
+      "tech_level": "tutorial",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "~$33/mo annual (Pro)",
+      "security_claims": [],
+      "open_source": false,
+      "works_alongside": "add-on",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-04",
+        "source": "official site"
+      },
+      "notes": "Free plan has 400 activities/mo."
+    },
+    {
+      "id": "n8n",
+      "name": "n8n",
+      "category": "workflow-automation",
+      "url": "https://n8n.io",
+      "summary": "Workflow automation for agents",
+      "use_cases": [
+        "admin",
+        "sales"
+      ],
+      "tech_level": "terminal",
+      "hosting": "either",
+      "free_tier": true,
+      "starting_price": "20 EUR/mo annual (Starter)",
+      "security_claims": [
+        "SOC",
+        "GDPR"
+      ],
+      "open_source": true,
+      "works_alongside": "add-on",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-04",
+        "source": "official site"
+      },
+      "notes": "Free Community Edition is self-hosted."
+    },
+    {
+      "id": "notion-ai",
+      "name": "Notion AI",
+      "category": "personal-assistant",
+      "url": "https://notion.com/product/ai",
+      "summary": "AI teammate inside your Notion docs and databases",
+      "use_cases": [
+        "admin",
+        "research"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$20/member/mo (Business)",
+      "security_claims": [
+        "SOC 2 Type 2",
+        "ISO 27001",
+        "GDPR"
+      ],
+      "open_source": false,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-04",
+        "source": "official site"
+      },
+      "notes": "Free and Plus plans only get an AI trial."
+    },
+    {
+      "id": "elicit",
+      "name": "Elicit",
+      "category": "research",
+      "url": "https://elicit.com",
+      "summary": "Research tool for literature reviews",
+      "use_cases": [
+        "research"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$49/user/mo annual (Pro)",
+      "security_claims": [],
+      "open_source": false,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-04",
+        "source": "official site"
+      },
+      "notes": null
+    },
+    {
+      "id": "browser-use",
+      "name": "Browser Use",
+      "category": "browser-agent",
+      "url": "https://browser-use.com",
+      "summary": "Web task agents and cloud browsers",
+      "use_cases": [
+        "research",
+        "admin"
+      ],
+      "tech_level": "terminal",
+      "hosting": "either",
+      "free_tier": false,
+      "starting_price": "$0.02/hr per browser",
+      "security_claims": [
+        "SOC 2 Type II",
+        "HIPAA"
+      ],
+      "open_source": true,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-04",
+        "source": "official site"
+      },
+      "notes": "Core project is MIT licensed."
+    },
+    {
+      "id": "cursor",
+      "name": "Cursor",
+      "category": "coding",
+      "url": "https://cursor.com",
+      "summary": "AI coding agent: desktop app, CLI, cloud agents",
+      "use_cases": [
+        "build"
+      ],
+      "tech_level": "terminal",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$8/mo (Plus)",
+      "security_claims": [
+        "SOC 2",
+        "ISO 27001"
+      ],
+      "open_source": false,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-04",
+        "source": "official site"
+      },
+      "notes": "Blog says it is now part of SpaceX (14 Aug 2026)."
+    },
+    {
+      "id": "claude-code",
+      "name": "Claude Code",
+      "category": "coding",
+      "url": "https://claude.com/claude-code",
+      "summary": "Coding agent in terminal, IDE, Slack and web",
+      "use_cases": [
+        "build",
+        "admin"
+      ],
+      "tech_level": "terminal",
+      "hosting": "hosted",
+      "free_tier": false,
+      "starting_price": "Included with Claude Pro",
+      "security_claims": [],
+      "open_source": false,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-04",
+        "source": "official site"
+      },
+      "notes": null
+    },
+    {
+      "id": "devin",
+      "name": "Devin",
+      "category": "coding",
+      "url": "https://devin.ai",
+      "summary": "Autonomous AI software engineer",
+      "use_cases": [
+        "build"
+      ],
+      "tech_level": "tutorial",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$20/mo (Pro)",
+      "security_claims": [
+        "SOC 2",
+        "ISO 27001",
+        "FedRAMP"
+      ],
+      "open_source": false,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-04",
+        "source": "official site"
+      },
+      "notes": null
+    },
+    {
+      "id": "replit-agent",
+      "name": "Replit Agent",
+      "category": "coding",
+      "url": "https://replit.com",
+      "summary": "Turn ideas into apps, no coding needed",
+      "use_cases": [
+        "build"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$18/mo annual (Core)",
+      "security_claims": [
+        "SOC 2"
+      ],
+      "open_source": false,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-04",
+        "source": "official site"
+      },
+      "notes": null
+    },
+    {
+      "id": "lovable",
+      "name": "Lovable",
+      "category": "coding",
+      "url": "https://lovable.dev",
+      "summary": "Apps from plain English",
+      "use_cases": [
+        "build",
+        "content"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": null,
+      "security_claims": [],
+      "open_source": false,
+      "works_alongside": "both",
+      "verification": {
+        "status": "blocked",
+        "checked_on": "2026-11-04",
+        "source": null
+      },
+      "notes": "Site returned 403."
+    },
+    {
+      "id": "bolt",
+      "name": "Bolt",
+      "category": "coding",
+      "url": "https://bolt.new",
+      "summary": "Create apps and websites by chatting",
+      "use_cases": [
+        "build"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$25/mo (Pro)",
+      "security_claims": [],
+      "open_source": false,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-04",
+        "source": "official site"
+      },
+      "notes": null
+    }
+  ]
+}
