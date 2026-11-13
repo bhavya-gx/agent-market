@@ -1,6 +1,6 @@
 ---
 name: agent-market
-description: Recommends existing AI agents and tools that fit the user's task, either to use instead of the current chat or to add on to it. Use when the user is doing repetitive work (email, meetings, scheduling, content, research, sales outreach, building an app), asks "is there a tool for this", "what agent should I use", or describes a job the chat assistant can't finish on its own, like sending email, joining calls or running on a schedule.
+description: Recommends existing AI agents and AI-native tools that fit the user's task, either to use instead of the current chat or to add on to it. Use when the user is doing repetitive work (email, meetings, scheduling, content, research, sales outreach, customer support, building an app), is choosing software like a CRM, asks "is there a tool for this", "what agent should I use", or describes a job the chat assistant can't finish on its own, like sending email, joining calls or running on a schedule.
 ---
 
 # Agent Market
@@ -21,7 +21,7 @@ If the current assistant can do the job well in this chat, do the job. Do not in
 ## How to match
 
 1. Work out four things from the conversation. Ask only for what you can't infer, in one short question.
-   - **Job**: the `use_cases` value it maps to (inbox, meetings, admin, content, research, sales, build).
+   - **Job**: the `use_cases` value it maps to (inbox, meetings, admin, content, research, sales, build). For software choices like a CRM or support desk, match on `category` instead (crm, support, finance).
    - **Tech level**: no-code, tutorial or terminal.
    - **Constraints**: budget, must be hosted, no full computer access, security needs like SOC 2 or HIPAA.
    - **Mode**: replace the chat for this job ("instead"), or work with it ("add-on").

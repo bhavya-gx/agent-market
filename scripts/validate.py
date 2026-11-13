@@ -5,11 +5,12 @@ data = json.loads(p.read_text())
 REQ = ["id","name","category","url","summary","use_cases","tech_level","hosting","verification"]
 ALLOWED = {"tech_level":{"no-code","tutorial","terminal"},"hosting":{"hosted","self-hosted","either"},
            "use_cases":{"inbox","meetings","admin","content","research","sales","build"},
-           "status":{"page_read","blocked","unchecked"},"works_alongside":{"both","add-on","is-an-llm"}}
+           "status":{"page_read","blocked","unchecked"},
+           "category":{"coding","general-agent","workflow-automation","meetings","content","personal-assistant","browser-agent","inbox","calendar","sales","research","crm","support","finance"},"works_alongside":{"both","add-on","is-an-llm"}}
 import re
 # Catalog text is read by an AI, so block anything that looks like instructions, markup or hidden links.
 BAD = re.compile(r"ignore (all|any|previous|the above)|system prompt|you (must|should) (always|now|recommend)|disregard|instruction|assistant:|<[a-z/!]|```|\\u200|javascript:|data:|https?://", re.I)
-LIMITS = {"name": 40, "summary": 120, "notes": 200, "starting_price": 60}
+LIMITS = {"name": 40, "summary": 120, "notes": 200, "starting_price": 60, "source": 80}
 SHORTENERS = ("bit.ly","tinyurl","t.co/","goo.gl","rebrand.ly","lnkd.in","ow.ly")
 errs, ids = [], set()
 for a in data["agents"]:
@@ -19,6 +20,7 @@ for a in data["agents"]:
     if n in ids: errs.append(f"{n}: duplicate id")
     ids.add(n)
     if not str(a.get("url","")).startswith("https://"): errs.append(f"{n}: url must start with https://")
+    if a.get("category") not in ALLOWED["category"]: errs.append(f"{n}: bad category {a.get('category')!r}")
     for k in ("tech_level","hosting","works_alongside"):
         if a.get(k) not in ALLOWED[k]: errs.append(f"{n}: bad {k} {a.get(k)!r}")
     for u in a.get("use_cases",[]):
@@ -33,7 +35,7 @@ for a in data["agents"]:
         if len(c) > 40 or BAD.search(c): errs.append(f"{n}: bad security claim {c!r}")
     if any(x in a.get("url","") for x in SHORTENERS): errs.append(f"{n}: link shorteners are not allowed")
     if not re.fullmatch(r"[a-z0-9-]{2,40}", n): errs.append(f"{n}: id must be lowercase letters, numbers and dashes")
-    allowed_keys = {"id","name","category","url","summary","use_cases","tech_level","hosting","free_tier","starting_price","security_claims","open_source","works_alongside","verification","notes"}
+    allowed_keys = {"id","name","category","url","summary","use_cases","tech_level","hosting","free_tier","starting_price","security_claims","open_source","works_alongside","verification","notes","source"}
     extra = set(a) - allowed_keys
     if extra: errs.append(f"{n}: unknown fields {sorted(extra)}")
     v = a.get("verification") or {}

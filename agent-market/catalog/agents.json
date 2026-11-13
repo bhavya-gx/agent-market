@@ -752,6 +752,1761 @@
         "source": "official site"
       },
       "notes": null
+    },
+    {
+      "id": "supermemory",
+      "name": "Supermemory",
+      "category": "research",
+      "url": "https://supermemory.ai",
+      "summary": "Memory layer for AI agents via API, SDKs and MCP",
+      "use_cases": [
+        "research",
+        "build"
+      ],
+      "tech_level": "terminal",
+      "hosting": "either",
+      "free_tier": true,
+      "starting_price": "$19/mo",
+      "security_claims": [
+        "SOC 2 Type II",
+        "GDPR",
+        "HIPAA BAA (Scale/Enterprise)"
+      ],
+      "open_source": false,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "SDKs, MCP server and plugins are MIT/Apache; memory engine itself not open source. Free plan is $5 credits/mo.",
+      "source": "Bhavya's content"
+    },
+    {
+      "id": "instantly",
+      "name": "Instantly",
+      "category": "sales",
+      "url": "https://instantly.ai",
+      "summary": "Cold email outreach, lead database, deliverability and AI CRM",
+      "use_cases": [
+        "sales"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": "$47/mo (Outreach Growth)",
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "'Start for free, no credit card' but no free plan described; bundles from $94/mo; Trust Center linked, no certifications named.",
+      "source": "Bhavya's content"
+    },
+    {
+      "id": "polsia",
+      "name": "Polsia",
+      "category": "general-agent",
+      "url": "https://polsia.com",
+      "summary": "Not read yet",
+      "use_cases": [
+        "admin"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": null,
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "blocked",
+        "checked_on": null,
+        "source": null
+      },
+      "notes": "Homepage never rendered past a 'Loading... Taking longer than expected' state on two tries; /pricing 404. Only the title 'AI That Runs Your Company While You Sleep' was readable.",
+      "source": "Bhavya's content"
+    },
+    {
+      "id": "manychat",
+      "name": "ManyChat",
+      "category": "workflow-automation",
+      "url": "https://manychat.com",
+      "summary": "Not read yet",
+      "use_cases": [
+        "admin"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": null,
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "blocked",
+        "checked_on": null,
+        "source": null
+      },
+      "notes": "HTTP 403 on manychat.com and www.manychat.com.",
+      "source": "Bhavya's content"
+    },
+    {
+      "id": "higgsfield",
+      "name": "Higgsfield",
+      "category": "content",
+      "url": "https://higgsfield.ai",
+      "summary": "AI image, video and voice generation suite for creators",
+      "use_cases": [
+        "content"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": null,
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "/pricing page rendered no plans (image placeholders only). Homepage shows promos (60% off, unlimited Seedance 2.5 up to 14 days) but no prices; Claude MCP integration; 'Miracle' product marked Soon.",
+      "source": "Bhavya's content"
+    },
+    {
+      "id": "heygen",
+      "name": "HeyGen",
+      "category": "content",
+      "url": "https://heygen.com",
+      "summary": "AI avatar video creation from text, slides or audio",
+      "use_cases": [
+        "content"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$29/mo (Creator; $24/mo annual)",
+      "security_claims": [
+        "SOC 2 Type II",
+        "GDPR",
+        "CCPA",
+        "EU AI Act",
+        "DPF"
+      ],
+      "open_source": false,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Custom avatars require on-camera identity verification; API for developers; separate HyperFrames product is open source.",
+      "source": "Bhavya's content"
+    },
+    {
+      "id": "keiki",
+      "name": "Keiki",
+      "category": "sales",
+      "url": "https://onkeiki.com",
+      "summary": "Customer-facing AI agent on iMessage, WhatsApp, SMS, email",
+      "use_cases": [
+        "inbox",
+        "sales"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": false,
+      "starting_price": "$20/mo (Starter, proposed; $1/mo first 3 months)",
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Pricing page labels all plans 'proposed' and not yet purchasable; phone lines billed extra ($99 to $300/mo each); page mentions a waitlist that agents can skip; API, SDK and MCP server available;",
+      "source": "Bhavya's content"
+    },
+    {
+      "id": "pumpgtm",
+      "name": "PumpGTM",
+      "category": "sales",
+      "url": "https://pumpgtm.com",
+      "summary": "Finds buying-signal leads, runs LinkedIn, X, email outreach",
+      "use_cases": [
+        "sales"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": false,
+      "starting_price": "$75/mo per LinkedIn account",
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Maintainer's own product; listed with the same checks as every other entry. 7-day trial, card required; first-month meeting guarantee; DFY from $1,740 once; MCP for Claude Code/Cursor/Codex;",
+      "source": "Bhavya's content"
+    },
+    {
+      "id": "attio",
+      "name": "Attio",
+      "category": "crm",
+      "url": "https://attio.com",
+      "summary": "AI-agent CRM for prospecting, enrichment and deal management",
+      "use_cases": [
+        "sales"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$50/mo (Plus; $40/mo annual)",
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Free plan up to 3 users; SSO/SCIM/audit logs only on Ultra ($1,000/mo annual) or via $30/user/mo Governance add-on; Trust Center linked, no certifications named; SDK, API, MCP.",
+      "source": "AI Snack Club CRM workshop"
+    },
+    {
+      "id": "monaco",
+      "name": "Monaco",
+      "category": "crm",
+      "url": "https://www.monaco.com",
+      "summary": "AI-native revenue platform replacing CRM and sales tools for startups",
+      "use_cases": [
+        "sales"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": false,
+      "starting_price": "$10,000 upfront for 1M credits, then usage-based",
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Request-demo only; no seat or platform fees; forward deployed sales exec per customer; trust.monaco.com linked, no certifications named on page.",
+      "source": "AI Snack Club CRM workshop"
+    },
+    {
+      "id": "hubspot",
+      "name": "HubSpot",
+      "category": "crm",
+      "url": "https://hubspot.com",
+      "summary": "CRM platform with marketing, sales, service hubs and AI agents",
+      "use_cases": [
+        "sales",
+        "inbox",
+        "content"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$7/mo per seat (Marketing Hub Starter)",
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Pricing page shows both $7 and $20/mo/seat for Starter, billing period unclear; Professional $800/mo plus $3,000 onboarding; Agent Hub and AEO (beta).",
+      "source": "AI Snack Club CRM workshop"
+    },
+    {
+      "id": "folk",
+      "name": "folk",
+      "category": "crm",
+      "url": "https://folk.app",
+      "summary": "AI CRM for prospecting, outreach, pipelines and calls",
+      "use_cases": [
+        "sales"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": "$24/mo per member (annual; $30/mo monthly)",
+      "security_claims": [
+        "SOC 2",
+        "GDPR"
+      ],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "2-week free trial, no card; FAQ mentions 'the free plan' but none is listed; Google SSO only.",
+      "source": "AI Snack Club CRM workshop"
+    },
+    {
+      "id": "pipedrive",
+      "name": "Pipedrive",
+      "category": "crm",
+      "url": "https://pipedrive.com",
+      "summary": "Sales CRM for deal tracking, leads and follow-up automation",
+      "use_cases": [
+        "sales",
+        "meetings"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": false,
+      "starting_price": null,
+      "security_claims": [
+        "SOC 2",
+        "GDPR",
+        "AES-256 encryption"
+      ],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Pricing pages returned 403 on two paths; 14-day trial, no card; Nova meeting intelligence included in all plans; hosted on Rackspace and AWS.",
+      "source": "AI Snack Club CRM workshop"
+    },
+    {
+      "id": "salesforce-agentforce",
+      "name": "Salesforce Agentforce",
+      "category": "crm",
+      "url": "https://salesforce.com/agentforce",
+      "summary": "Build AI agents for support, sales and employee tasks",
+      "use_cases": [
+        "sales",
+        "inbox",
+        "admin"
+      ],
+      "tech_level": "tutorial",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$5/user/mo license plus Flex Credits ($500 per 100k)",
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Formerly Einstein Copilot (rebrand); free via Salesforce Foundations; $2 per conversation option; add-ons $125/user/mo; pricing page says contact sales for details.",
+      "source": "AI Snack Club CRM workshop"
+    },
+    {
+      "id": "microsoft-copilot",
+      "name": "Microsoft Copilot",
+      "category": "general-agent",
+      "url": "https://www.microsoft.com/en-us/microsoft-copilot",
+      "summary": "Microsoft AI assistant across chat, work content and apps",
+      "use_cases": [
+        "inbox",
+        "meetings",
+        "admin",
+        "content",
+        "research"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": "$6.99/mo (Individuals)",
+      "security_claims": [],
+      "open_source": false,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Business $23.50 user/mo yearly, Enterprise $30; Autopilot agent in private preview; Code and Home via Frontier program; 'designed to be secure and private' but no certifications named.",
+      "source": "Zapier best AI agents"
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "category": "general-agent",
+      "url": "https://gemini.google.com",
+      "summary": "Not read yet",
+      "use_cases": [
+        "admin"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": null,
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "blocked",
+        "checked_on": null,
+        "source": null
+      },
+      "notes": "Fetch failed twice with 'Parse Error: Header overflow'.",
+      "source": "Zapier best AI agents"
+    },
+    {
+      "id": "fin-by-intercom",
+      "name": "Fin by Intercom",
+      "category": "support",
+      "url": "https://fin.ai",
+      "summary": "AI customer agent for service, sales and success conversations",
+      "use_cases": [
+        "inbox",
+        "sales"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": false,
+      "starting_price": "$0.99 per outcome, 50 outcomes/mo minimum",
+      "security_claims": [
+        "SOC 2",
+        "ISO 27001",
+        "ISO 42001",
+        "ISO 27701",
+        "AIUC-1",
+        "HIPAA"
+      ],
+      "open_source": false,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Outcome-based pricing; Intercom helpdesk seats $19/mo extra; 14-day trial; US/EU/AU data residency; Fin 4 and proprietary Apex models.",
+      "source": "Zapier best AI agents"
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "category": "research",
+      "url": "https://perplexity.ai",
+      "summary": "Not read yet",
+      "use_cases": [
+        "admin"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": null,
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "blocked",
+        "checked_on": null,
+        "source": null
+      },
+      "notes": "Homepage (with and without www) rendered only the word 'Perplexity'; /pricing returned 404.",
+      "source": "Futurepedia"
+    },
+    {
+      "id": "agentgpt",
+      "name": "AgentGPT",
+      "category": "general-agent",
+      "url": "https://agentgpt.reworkd.ai",
+      "summary": "Browser app that runs autonomous goal-driven agents",
+      "use_cases": [
+        "research"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$40/mo (PRO)",
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Labeled beta; GitHub repo reworkd/AgentGPT linked but license not stated on page; plan page still references GPT-3.5-Turbo and GPT-4, looks stale; banner promotes web-scraping agents;",
+      "source": "Futurepedia, e2b awesome-ai-agents"
+    },
+    {
+      "id": "chatbase",
+      "name": "Chatbase",
+      "category": "support",
+      "url": "https://chatbase.co",
+      "summary": "Build support and sales AI agents across chat, email, voice",
+      "use_cases": [
+        "inbox",
+        "sales"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": false,
+      "starting_price": "$120/mo billed yearly (Basic; $150 monthly)",
+      "security_claims": [
+        "SOC 2 Type II",
+        "GDPR",
+        "HIPAA-eligible (Enterprise)"
+      ],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "7-day trial; remove branding $99/mo add-on; data not used to train models.",
+      "source": "Futurepedia, AI Agent Store"
+    },
+    {
+      "id": "github-copilot",
+      "name": "GitHub Copilot",
+      "category": "coding",
+      "url": "https://github.com/features/copilot",
+      "summary": "AI coding agent for writing, reviewing and shipping software",
+      "use_cases": [
+        "build"
+      ],
+      "tech_level": "terminal",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$10/user/mo (Pro)",
+      "security_claims": [
+        "GDPR (via Data Protection Agreement)"
+      ],
+      "open_source": false,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Free plan 2,000 completions/mo; usage metered in GitHub AI Credits ($0.01 each); individual-plan interaction data may be used for training unless opted out; macOS desktop app.",
+      "source": "Futurepedia"
+    },
+    {
+      "id": "customgpt-ai",
+      "name": "CustomGPT.ai",
+      "category": "support",
+      "url": "https://customgpt.ai",
+      "summary": "No-code AI assistants answering from your own content with citations",
+      "use_cases": [
+        "inbox",
+        "research"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": "$99/mo (Standard)",
+      "security_claims": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "open_source": false,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "'Try for free' but no free plan described; Premium $499/mo; no training on customer data; API available.",
+      "source": "Futurepedia"
+    },
+    {
+      "id": "superagi",
+      "name": "SuperAGI",
+      "category": "sales",
+      "url": "https://superagi.com",
+      "summary": "Not read yet",
+      "use_cases": [
+        "admin"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": null,
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "blocked",
+        "checked_on": null,
+        "source": null
+      },
+      "notes": "superagi.com and /pricing rendered only the title 'SuperAGI'; www.superagi.com returned 404.",
+      "source": "Futurepedia"
+    },
+    {
+      "id": "circleback",
+      "name": "Circleback",
+      "category": "meetings",
+      "url": "https://circleback.ai",
+      "summary": "AI meeting notetaker: notes, action items, transcripts, automations",
+      "use_cases": [
+        "meetings"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$15/user/mo (Pro)",
+      "security_claims": [
+        "SOC 2",
+        "GDPR",
+        "EU-US DPF",
+        "HIPAA"
+      ],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "YC-backed; API, CLI, MCP and webhooks for agents; imports from Fathom, Fireflies, Granola, Read AI",
+      "source": "Futurepedia"
+    },
+    {
+      "id": "mailmaestro",
+      "name": "MailMaestro",
+      "category": "inbox",
+      "url": "https://maestrolabs.com",
+      "summary": "AI email assistant for Outlook and Gmail, plus meeting notes",
+      "use_cases": [
+        "inbox",
+        "meetings"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$12/seat/mo (MailMaestro)",
+      "security_claims": [
+        "SOC 2 Type II",
+        "GDPR",
+        "HIPAA (BAA on request)",
+        "CASA Tier 2"
+      ],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Vendor is Maestro Labs; TeamsMaestro notes at $17/seat/mo; new MaestroGo hardware recorder on pre-order",
+      "source": "Futurepedia"
+    },
+    {
+      "id": "setter-ai",
+      "name": "Setter AI",
+      "category": "sales",
+      "url": "https://www.trysetter.com",
+      "summary": "WhatsApp, SMS and web chat AI that books sales calls",
+      "use_cases": [
+        "sales"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": "$397/mo billed yearly (12,000 credits); $497/mo monthly",
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Credit-based per-lead pricing marked 'limited period'; done-for-you tier for 500+ leads/mo; docs site with API exists",
+      "source": "Futurepedia"
+    },
+    {
+      "id": "mindstudio",
+      "name": "MindStudio",
+      "category": "workflow-automation",
+      "url": "https://mindstudio.ai",
+      "summary": "No-code visual platform to build and deploy AI agents",
+      "use_cases": [
+        "build",
+        "admin"
+      ],
+      "tech_level": "tutorial",
+      "hosting": "either",
+      "free_tier": true,
+      "starting_price": "$20/mo (Individual; $16/mo yearly)",
+      "security_claims": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Self-host option on Business plan only; Chrome extension is open source, platform not stated; sister product Remy",
+      "source": "Futurepedia"
+    },
+    {
+      "id": "qodo",
+      "name": "Qodo",
+      "category": "coding",
+      "url": "https://qodo.ai",
+      "summary": "AI code review agent for pull requests with codebase context",
+      "use_cases": [
+        "build"
+      ],
+      "tech_level": "terminal",
+      "hosting": "either",
+      "free_tier": false,
+      "starting_price": "$30/mo (Pro Team, credit-based)",
+      "security_claims": [
+        "SOC 2 Type II"
+      ],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "No permanent free tier, 14-day trial; free program for OSS; on-prem or air-gapped for Enterprise; homepage says $0.012/credit, pricing page says $0.015/credit",
+      "source": "Futurepedia"
+    },
+    {
+      "id": "taskade",
+      "name": "Taskade",
+      "category": "workflow-automation",
+      "url": "https://taskade.com",
+      "summary": "AI app builder for CRMs, dashboards, portals with agents",
+      "use_cases": [
+        "build",
+        "admin"
+      ],
+      "tech_level": "tutorial",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$10/mo billed annually (Pro)",
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Now pitched as Taskade Genesis app builder; BYOK on Pro and above; no compliance certifications named",
+      "source": "AI Agent Store"
+    },
+    {
+      "id": "synthesia",
+      "name": "Synthesia",
+      "category": "content",
+      "url": "https://synthesia.io",
+      "summary": "AI avatar video platform for business videos and dubbing",
+      "use_cases": [
+        "content"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$19/mo (Starter; $14/mo yearly)",
+      "security_claims": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "ISO 27701",
+        "ISO 42001",
+        "GDPR"
+      ],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Free plan is watermarked; API and MCP docs; new Sessions interactive-avatar product",
+      "source": "AI Agent Store, AI Agents Directory"
+    },
+    {
+      "id": "quillbot",
+      "name": "QuillBot",
+      "category": "content",
+      "url": "https://quillbot.com",
+      "summary": "Not read yet",
+      "use_cases": [
+        "admin"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": null,
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "blocked",
+        "checked_on": null,
+        "source": null
+      },
+      "notes": "HTTP 403 on fetch",
+      "source": "AI Agent Store"
+    },
+    {
+      "id": "rytr",
+      "name": "Rytr",
+      "category": "inbox",
+      "url": "https://rytr.me",
+      "summary": "AI relationship manager that preps meetings and drafts follow-ups",
+      "use_cases": [
+        "inbox",
+        "meetings",
+        "content"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$9/mo (Lite)",
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Repositioned from AI writer to relationship manager over email, Slack, calendar; page explicitly claims no certifications",
+      "source": "AI Agent Store"
+    },
+    {
+      "id": "zeni",
+      "name": "Zeni",
+      "category": "finance",
+      "url": "https://zeni.ai",
+      "summary": "AI bookkeeping and CFO with human accountants reviewing",
+      "use_cases": [
+        "admin"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": "$549/mo (Starter)",
+      "security_claims": [
+        "SOC 2 Type II"
+      ],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Zeni MCP connects books to Claude and ChatGPT; banking via Thread Bank, card invite-only",
+      "source": "AI Agent Store"
+    },
+    {
+      "id": "beam-ai",
+      "name": "Beam AI",
+      "category": "workflow-automation",
+      "url": "https://beam.ai",
+      "summary": "Enterprise AI agents automating workflows with human approvals",
+      "use_cases": [
+        "admin"
+      ],
+      "tech_level": "no-code",
+      "hosting": "either",
+      "free_tier": true,
+      "starting_price": "$50/mo (Pro, 200 tasks)",
+      "security_claims": [
+        "SOC 2 Type II",
+        "GDPR",
+        "HIPAA",
+        "NYC LL144 bias audit"
+      ],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Deployable on own cloud or on-prem; Scale plan $3,990/mo; EU, KSA, UAE data residency",
+      "source": "AI Agent Store, e2b awesome-ai-agents"
+    },
+    {
+      "id": "clueso",
+      "name": "Clueso",
+      "category": "content",
+      "url": "https://clueso.io",
+      "summary": "AI platform to make and update product and training videos",
+      "use_cases": [
+        "content"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$40/mo billed annually (Solo)",
+      "security_claims": [
+        "SOC 2 Type II",
+        "ISO 27001"
+      ],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "YC-backed; MCP integration for Claude, ChatGPT, Cursor; free plan is 10 export minutes/mo",
+      "source": "AI Agents Directory"
+    },
+    {
+      "id": "microsoft-copilot-studio",
+      "name": "Microsoft Copilot Studio",
+      "category": "workflow-automation",
+      "url": "https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio",
+      "summary": "No-code builder for custom AI agents, workflows and apps",
+      "use_cases": [
+        "build",
+        "admin"
+      ],
+      "tech_level": "tutorial",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": "$200/mo per 25,000 Copilot Credits pack",
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Formerly Power Virtual Agents; requires Azure subscription; pay-as-you-go meter, rate not stated; names no specific compliance standards",
+      "source": "AI Agents Directory"
+    },
+    {
+      "id": "bardeen",
+      "name": "Bardeen",
+      "category": "workflow-automation",
+      "url": "https://www.bardeen.ai",
+      "summary": "Agentic web scraper that sources, qualifies and enriches leads",
+      "use_cases": [
+        "sales",
+        "research"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$10/mo (Basic)",
+      "security_claims": [
+        "SOC 2 Type II",
+        "GDPR",
+        "CASA Tier 2 and 3"
+      ],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Repositioned as lead-sourcing scraper; '100 credits free' rather than a named free plan",
+      "source": "e2b awesome-ai-agents"
+    },
+    {
+      "id": "julius",
+      "name": "Julius",
+      "category": "research",
+      "url": "https://julius.ai",
+      "summary": "Not read yet",
+      "use_cases": [
+        "admin"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": null,
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "blocked",
+        "checked_on": null,
+        "source": null
+      },
+      "notes": "HTTP 403 on fetch",
+      "source": "e2b awesome-ai-agents"
+    },
+    {
+      "id": "gumloop",
+      "name": "Gumloop",
+      "category": "workflow-automation",
+      "url": "https://www.gumloop.com",
+      "summary": "Multiplayer AI agent builder connected to company apps",
+      "use_cases": [
+        "build",
+        "admin"
+      ],
+      "tech_level": "tutorial",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": null,
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Pricing page returned no content on two fetches; REST API, Python/JS SDKs, CLI, MCP server; VPC deployments; links trust.gumloop.com but names no certifications",
+      "source": "e2b awesome-ai-agents"
+    },
+    {
+      "id": "relevance-ai",
+      "name": "Relevance AI",
+      "category": "workflow-automation",
+      "url": "https://relevanceai.com",
+      "summary": "Platform to build and run specialist AI agents for teams",
+      "use_cases": [
+        "sales",
+        "build"
+      ],
+      "tech_level": "tutorial",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": null,
+      "security_claims": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Pricing page lists only Enterprise with no prices; Invent 2.0 newly launched; API and MCP docs",
+      "source": "e2b awesome-ai-agents"
+    },
+    {
+      "id": "hyperwrite",
+      "name": "HyperWrite",
+      "category": "content",
+      "url": "https://www.hyperwriteai.com",
+      "summary": "AI writing assistant with autocomplete, web search, citations",
+      "use_cases": [
+        "content"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": "$19.99/mo (Premium; $16/mo yearly)",
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Listed as browser-agent but page shows a writing assistant; 'Agent features' on Ultra undescribed; page has Lorem ipsum placeholders",
+      "source": "e2b awesome-ai-agents"
+    },
+    {
+      "id": "phind",
+      "name": "Phind",
+      "category": "research",
+      "url": "https://www.phind.com",
+      "summary": "Not read yet",
+      "use_cases": [
+        "admin"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": null,
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "blocked",
+        "checked_on": null,
+        "source": null
+      },
+      "notes": "HTTP 403 on fetch",
+      "source": "e2b awesome-ai-agents"
+    },
+    {
+      "id": "dosu",
+      "name": "Dosu",
+      "category": "coding",
+      "url": "https://dosu.dev",
+      "summary": "Knowledge capture for engineering teams and coding agents",
+      "use_cases": [
+        "build"
+      ],
+      "tech_level": "terminal",
+      "hosting": "either",
+      "free_tier": true,
+      "starting_price": "$16/mo (Pro)",
+      "security_claims": [
+        "SOC 2 Type II"
+      ],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Free tier is public repos only; self-hosting for large enterprise only; CLI and MCP server",
+      "source": "e2b awesome-ai-agents"
+    },
+    {
+      "id": "ellipsis",
+      "name": "Ellipsis",
+      "category": "coding",
+      "url": "https://ellipsis.dev",
+      "summary": "Hosted cloud to run coding agents (Claude Code, Codex) on managed infra",
+      "use_cases": [
+        "build"
+      ],
+      "tech_level": "terminal",
+      "hosting": "either",
+      "free_tier": null,
+      "starting_price": "usage-based: $0/seat + 10% of token cost",
+      "security_claims": [
+        "SOC 2 Type I",
+        "SOC 2 Type II in progress"
+      ],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "No fixed plan price; optional support packages from $5,000/mo; can run in your own AWS account",
+      "source": "e2b awesome-ai-agents"
+    },
+    {
+      "id": "codegen",
+      "name": "Codegen",
+      "category": "coding",
+      "url": "https://www.codegen.com",
+      "summary": "Enterprise orchestration platform and skills directory for AI coding agents",
+      "use_cases": [
+        "build"
+      ],
+      "tech_level": "terminal",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": null,
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Banner: Codegen has joined ClickUp; CTAs link to ClickUp; no public pricing (pricing page lists no plans)",
+      "source": "e2b awesome-ai-agents"
+    },
+    {
+      "id": "kadoa",
+      "name": "Kadoa",
+      "category": "research",
+      "url": "https://www.kadoa.com",
+      "summary": "AI agents build and maintain web data pipelines for finance teams",
+      "use_cases": [
+        "research"
+      ],
+      "tech_level": "terminal",
+      "hosting": "either",
+      "free_tier": false,
+      "starting_price": null,
+      "security_claims": [
+        "SOC 2 Type II",
+        "Encryption at rest and in transit",
+        "Third-party pen testing"
+      ],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Consumption-based Starter and custom Enterprise, no prices shown; free trial; sales-led; homepage carried an under-maintenance banner",
+      "source": "e2b awesome-ai-agents"
+    },
+    {
+      "id": "powerdrill",
+      "name": "Powerdrill",
+      "category": "research",
+      "url": "https://powerdrill.ai",
+      "summary": "AI data-analysis workspace (Bloom) with memory, plus DataFact on-prem analyst",
+      "use_cases": [
+        "research"
+      ],
+      "tech_level": "no-code",
+      "hosting": "either",
+      "free_tier": true,
+      "starting_price": "$16.58/mo (Pro; $13.27/mo annual)",
+      "security_claims": [
+        "SOC 2 Type II",
+        "GDPR",
+        "ISO 27001",
+        "ISO 20000"
+      ],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "20% off promo ending 14 Nov 2026; DataFact runs on-prem or private cloud",
+      "source": "e2b awesome-ai-agents"
+    },
+    {
+      "id": "magic-loops",
+      "name": "Magic Loops",
+      "category": "workflow-automation",
+      "url": "https://magicloops.dev",
+      "summary": "No-code builder for AI-native apps with a community marketplace",
+      "use_cases": [
+        "build",
+        "admin"
+      ],
+      "tech_level": "tutorial",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$20/mo",
+      "security_claims": [
+        "SOC 2 (Enterprise)"
+      ],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Credits billed at $1 per 1,000 on paid plans; Enterprise offers on-premise hosting, contact pricing; company is ChatSeed, Inc.",
+      "source": "e2b awesome-ai-agents"
+    },
+    {
+      "id": "aider",
+      "name": "Aider",
+      "category": "coding",
+      "url": "https://aider.chat",
+      "summary": "Terminal tool for pair programming with LLMs in your git repo",
+      "use_cases": [
+        "build"
+      ],
+      "tech_level": "terminal",
+      "hosting": "self-hosted",
+      "free_tier": null,
+      "starting_price": null,
+      "security_claims": [],
+      "open_source": true,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Installs via pip, bring your own API key or local model; public GitHub repo (44K stars) but no license named on page; no pricing",
+      "source": "e2b awesome-ai-agents"
+    },
+    {
+      "id": "autogpt",
+      "name": "AutoGPT",
+      "category": "general-agent",
+      "url": "https://agpt.co",
+      "summary": "Hire specialist AI 'Experts' (SEO, prospecting, EA) coordinated by Otto",
+      "use_cases": [
+        "content",
+        "sales",
+        "admin",
+        "research"
+      ],
+      "tech_level": "no-code",
+      "hosting": "either",
+      "free_tier": false,
+      "starting_price": "$50/mo (Pro; $510/yr annual)",
+      "security_claims": [],
+      "open_source": true,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "7-day Pro trial, card required; Max $320/mo; self-host via Docker with public GitHub repo, license not named; product evolved from the original open-source project",
+      "source": "e2b awesome-ai-agents, Futurepedia"
+    },
+    {
+      "id": "gpt-researcher-tavily",
+      "name": "GPT Researcher (Tavily)",
+      "category": "research",
+      "url": "https://tavily.com",
+      "summary": "Web search, extract, crawl and research API for AI agents",
+      "use_cases": [
+        "research",
+        "build"
+      ],
+      "tech_level": "terminal",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$30/mo (Project; or PAYG $0.008/credit)",
+      "security_claims": [
+        "SOC 2",
+        "ISO 27001",
+        "GDPR",
+        "ZDR"
+      ],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Branded 'Tavily by Nebius', press item 'Tavily is Joining Nebius'; free Researcher plan 1,000 credits/mo; GPT Researcher itself not described on page",
+      "source": "e2b awesome-ai-agents"
+    },
+    {
+      "id": "heights-platform",
+      "name": "Heights Platform",
+      "category": "content",
+      "url": "https://www.heightsplatform.com",
+      "summary": "All-in-one platform to build and sell courses, communities, coaching, with AI",
+      "use_cases": [
+        "content"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": false,
+      "starting_price": "$29/mo (Challenge; $19/mo annual)",
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "30-day free trial, no card; no transaction fees; Basic $49, Pro $119, Academy $499/mo",
+      "source": "e2b awesome-ai-agents"
+    },
+    {
+      "id": "juno",
+      "name": "Juno",
+      "category": "research",
+      "url": "https://heyjuno.co",
+      "summary": "AI research agent that designs studies, runs adaptive interviews, reports findings",
+      "use_cases": [
+        "research"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": "$45 per completed interview (pay-as-you-go)",
+      "security_claims": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Study design is free; no seats or subscription; API with client library available; custom pricing for regular research",
+      "source": "e2b awesome-ai-agents"
+    },
+    {
+      "id": "questflow",
+      "name": "Questflow",
+      "category": "finance",
+      "url": "https://questflow.ai",
+      "summary": "AI finance app: follow investor-modeled agents that analyze and trade for you",
+      "use_cases": [
+        "research"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$19.99/mo (Pro; $13.99/mo annual)",
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Pivoted from workflow automation to AI trading/finance; Max $99.99/mo, Enterprise $1,200/mo; self-custody wallet claims only; developer platform linked",
+      "source": "e2b awesome-ai-agents"
+    },
+    {
+      "id": "factory",
+      "name": "Factory",
+      "category": "coding",
+      "url": "https://factory.com",
+      "summary": "Agent-native software development platform; Droids plan, build, review, ship code",
+      "use_cases": [
+        "build"
+      ],
+      "tech_level": "terminal",
+      "hosting": "either",
+      "free_tier": true,
+      "starting_price": "$20/mo per individual (Pro)",
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Free plan requires bring-your-own inference (ChatGPT, GitHub Copilot, OpenRouter or own API keys). Works via CLI, desktop, web, Slack, Teams, Jira, Linear, CI.",
+      "source": "e2b awesome-ai-agents (moved from factory.ai)"
+    },
+    {
+      "id": "cal-com-with-cal-ai",
+      "name": "Cal.com with Cal.ai",
+      "category": "calendar",
+      "url": "https://cal.com",
+      "summary": "AI phone agent that answers calls and books meetings",
+      "use_cases": [
+        "meetings",
+        "admin"
+      ],
+      "tech_level": "no-code",
+      "hosting": "either",
+      "free_tier": true,
+      "starting_price": "$12 per user/month (Cal.com Teams, billed yearly; $15 monthl",
+      "security_claims": [
+        "ISO 27001",
+        "SOC 2",
+        "CCPA",
+        "GDPR",
+        "HIPAA",
+        "Encrypted in transit and at rest"
+      ],
+      "open_source": true,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "cal.com/ai returns 404; facts taken from cal.com homepage, which lists 'Cal.ai phone agent' and 'Cal.com Agents' as part of Cal.com. Pricing shown is Cal.com's, no separate Cal.ai price on the page.",
+      "source": "e2b awesome-ai-agents (moved from cal.ai)"
+    },
+    {
+      "id": "surfer",
+      "name": "Surfer",
+      "category": "content",
+      "url": "https://surfer.ai",
+      "summary": "Tracks brand visibility in AI search engines, plus SEO content tools",
+      "use_cases": [
+        "content",
+        "research"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": false,
+      "starting_price": "$49/month billed yearly (Discovery)",
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "No permanent free plan listed, only free tools (AI Detector, AI Humanizer, Chrome extension, visibility audit). App login still at app.surferseo.com. Listed under the 'Positive' brand family.",
+      "source": "AI Agent Store (moved from surferseo.com)"
+    },
+    {
+      "id": "agi-0-formerly-multion",
+      "name": "AGI-0 (formerly MultiOn)",
+      "category": "personal-assistant",
+      "url": "https://theagi.company",
+      "summary": "On-device Android action agent that sees the screen and acts",
+      "use_cases": [
+        "admin"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": null,
+      "security_claims": [
+        "SOC 2 Type 2 audit completed in 2026, re"
+      ],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Site now presents AGI, Inc. and its product AGI-0 ('a small action model'); page does not mention MultiOn or a rename. No public pricing, /pricing is 404. Consumer 'Get access' goes to Google Play;",
+      "source": "e2b awesome-ai-agents (moved from multion.ai)"
+    },
+    {
+      "id": "bento-formerly-aomni",
+      "name": "Bento (formerly Aomni)",
+      "category": "content",
+      "url": "https://heybento.ai",
+      "summary": "Makes images, video, podcasts, apps and ads from plain-language asks",
+      "use_cases": [
+        "content",
+        "build"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": false,
+      "starting_price": "$20/month (Starter, 20 credits)",
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Site now branded Bento; page does not mention Aomni or a rename, but support email is team@aomni.com. Product is a creative/generation tool, not a research agent as the category suggests.",
+      "source": "e2b awesome-ai-agents (moved from aomni.com)"
+    },
+    {
+      "id": "lobby-formerly-floode",
+      "name": "Lobby (formerly Floode)",
+      "category": "inbox",
+      "url": "https://thelobby.ai",
+      "summary": "Predicts and runs your email workflows end to end, you approve",
+      "use_cases": [
+        "inbox",
+        "meetings"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": false,
+      "starting_price": "From $42/month",
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Site now branded Lobby; page does not mention Floode or a rename. /pricing is 404, price taken from homepage. Lists iOS and macOS apps, 'no prompt, you just approve', 50+ tools addon.",
+      "source": "e2b awesome-ai-agents (moved from floodehq.com)"
+    },
+    {
+      "id": "devin-desktop-formerly-windsurf",
+      "name": "Devin Desktop (formerly Windsurf)",
+      "category": "coding",
+      "url": "https://devin.ai/desktop",
+      "summary": "Desktop app to run and monitor many AI coding agents",
+      "use_cases": [
+        "build"
+      ],
+      "tech_level": "terminal",
+      "hosting": "hosted",
+      "free_tier": true,
+      "starting_price": "$20/month (Pro)",
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Renamed: page says 'Devin Desktop is the new name for Windsurf', only name and branding change, plans and settings carry over. Built on the Windsurf IDE, by Cognition.",
+      "source": "Futurepedia (windsurf.com now redirects here)"
+    },
+    {
+      "id": "lenix",
+      "name": "Lenix",
+      "category": "sales",
+      "url": "https://lenix.ai",
+      "summary": "Not read yet",
+      "use_cases": [
+        "admin"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": null,
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "blocked",
+        "checked_on": null,
+        "source": null
+      },
+      "notes": "Official URL found via search (lenix.ai, AI SDR/BDR agent); fetch failed with connection refused on lenix.ai and www.lenix.ai. Not to be confused with lenixai.com or lenix.us, which are unrelated.",
+      "source": "Futurepedia"
+    },
+    {
+      "id": "stammer",
+      "name": "Stammer",
+      "category": "support",
+      "url": "https://stammer.ai",
+      "summary": "Build, white-label and resell AI chat and voice agents",
+      "use_cases": [
+        "sales",
+        "meetings",
+        "inbox"
+      ],
+      "tech_level": "no-code",
+      "hosting": "either",
+      "free_tier": false,
+      "starting_price": "$49/mo (Standard, 500 chat replies, 120 voice minutes)",
+      "security_claims": [
+        "GDPR Compliant"
+      ],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "No free plan, 7-day (Standard) or 14-day (Pro) trial, card required. Self hosting is optional on Enterprise only. Pro White Label $99/mo. Aimed at agencies reselling agents;",
+      "source": "Futurepedia"
+    },
+    {
+      "id": "insight7",
+      "name": "Insight7",
+      "category": "sales",
+      "url": "https://insight7.io",
+      "summary": "AI contact center: voice and chat agents, call scoring, coaching",
+      "use_cases": [
+        "sales",
+        "research"
+      ],
+      "tech_level": "no-code",
+      "hosting": "either",
+      "free_tier": true,
+      "starting_price": "$99/month (Pro, billed $990/year)",
+      "security_claims": [
+        "SOC 2 Type II",
+        "HIPAA compliant",
+        "GDPR compliant",
+        "256-bit AES and 256-bit SSL/TLS encrypti"
+      ],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "Free plan is in the FAQ only (5 text files under 10MB), not on the plan grid. Positioned as contact center / customer outcomes rather than sales outreach.",
+      "source": "Futurepedia"
+    },
+    {
+      "id": "digitalgenius",
+      "name": "DigitalGenius",
+      "category": "support",
+      "url": "https://digitalgenius.com",
+      "summary": "AI customer service agent for ecommerce that takes actions",
+      "use_cases": [
+        "inbox"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": null,
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "No public pricing, demo only (/pricing is a book-a-demo form). Security page lives at trust.digitalgenius.com, not read.",
+      "source": "Futurepedia"
+    },
+    {
+      "id": "zencall-ai",
+      "name": "ZenCall.ai",
+      "category": "support",
+      "url": "https://zencall.ai",
+      "summary": "Not read yet",
+      "use_cases": [
+        "inbox"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": null,
+      "starting_price": null,
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "blocked",
+        "checked_on": null,
+        "source": null
+      },
+      "notes": "zencall.ai now redirects to warmloom.com, which suggests a rename or move to Warmloom; not confirmed from a vendor page.",
+      "source": "Futurepedia"
+    },
+    {
+      "id": "scalenut",
+      "name": "Scalenut",
+      "category": "content",
+      "url": "https://scalenut.com",
+      "summary": "GEO platform pairing AI agents with human SEO experts for content",
+      "use_cases": [
+        "content",
+        "research"
+      ],
+      "tech_level": "no-code",
+      "hosting": "hosted",
+      "free_tier": false,
+      "starting_price": "$59/mo (Starter; shown at $24/mo with a 60% off limited offe",
+      "security_claims": [],
+      "open_source": null,
+      "works_alongside": "both",
+      "verification": {
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
+      },
+      "notes": "No permanent free plan, 7-day trial plus free tools and a free AI audit. Black Friday 60% off banners. Offers done-for-you 'VIP Service' with custom pricing alongside DIY software;",
+      "source": "AI Agent Store"
     }
   ]
 }

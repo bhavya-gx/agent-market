@@ -22,7 +22,7 @@ cp -r agent-market/agent-market ~/.claude/skills/
 
 ## What's in the catalog
 
-30 agents across 11 categories: coding, general agents, workflow automation, meetings, content, personal assistants, browser agents, inbox, calendar, sales and research. Every entry records whether its official page was read and when.
+97 agents and AI-native tools across 14 categories: coding, content, workflow automation, general agents, sales, research, CRM, customer support, inbox, meetings, personal assistants, calendar, browser agents and finance. Every entry names where it was sourced from. Every entry records whether its official page was read and when.
 
 ## Test it
 After installing, open a new chat and try:
