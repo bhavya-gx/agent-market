@@ -4,7 +4,7 @@ import json, pathlib, html, datetime, shutil
 root = pathlib.Path(__file__).resolve().parent.parent
 data = json.loads((root / "agent-market" / "catalog" / "agents.json").read_text())
 out = root / "site"; shutil.rmtree(out, ignore_errors=True); (out / "agents").mkdir(parents=True)
-BASE = "https://agent-market.vercel.app"
+BASE = "https://agent-market-orpin.vercel.app"
 today = datetime.date.today().isoformat()
 e = html.escape
 CAT = {"coding": "Coding", "general-agent": "General agents", "workflow-automation": "Workflow automation", "meetings": "Meetings", "content": "Content", "personal-assistant": "Personal assistants", "browser-agent": "Browser agents", "inbox": "Inbox", "calendar": "Calendar", "sales": "Sales", "research": "Research"}

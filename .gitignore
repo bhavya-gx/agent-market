@@ -3,3 +3,5 @@ catalog-data/snapshots/
 catalog-data/DISCOVERED.md
 __pycache__/
 .vercel/
+.vercel
+.env*
