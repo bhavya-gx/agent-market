@@ -1,0 +1,34 @@
+name: Nightly re-check and discovery
+on:
+  schedule:
+    - cron: "17 6 * * *"   # 06:17 UTC daily, 10:17 PM Pacific
+  workflow_dispatch:
+permissions:
+  contents: write
+  pull-requests: write
+jobs:
+  nightly:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Re-check every official page
+        run: python3 scripts/recheck.py
+      - name: Discover new agents from launch feeds
+        run: python3 scripts/discover.py 1 > catalog-data/DISCOVERED.md || true
+      - name: Validate
+        run: python3 scripts/validate.py
+      - name: Open a pull request for review
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -e
+          git config user.name "agent-market-bot"
+          git config user.email "agent-market-bot@users.noreply.github.com"
+          d=$(date -u +%F); b="nightly/$d"
+          git checkout -B "$b"
+          git add -A
+          git diff --cached --quiet && { echo "nothing changed"; exit 0; }
+          git commit -m "Nightly re-check and discovery, $d"
+          git push -f origin "$b"
+          { cat catalog-data/CHANGES.md; echo; echo "## New candidates (not in the catalog, review before adding)"; echo; cat catalog-data/DISCOVERED.md; } > /tmp/body.md
+          gh pr create --title "Nightly: re-check and new candidates, $d" --body-file /tmp/body.md --base main --head "$b" --assignee "${{ github.repository_owner }}" || gh pr edit "$b" --body-file /tmp/body.md

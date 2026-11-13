@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-04",
+  "updated": "2026-11-13",
   "agents": [
     {
       "id": "openclaw",
@@ -22,7 +22,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-04",
+        "checked_on": "2026-11-13",
         "source": "official site"
       },
       "notes": "Full system access is the default. Sandboxing is optional."
@@ -50,7 +50,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-04",
+        "checked_on": "2026-11-13",
         "source": "official site"
       },
       "notes": "Free trial is $50 credits over 7 days."
@@ -74,7 +74,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-04",
+        "checked_on": "2026-11-13",
         "source": "official site"
       },
       "notes": "Meta announced an acquisition in Dec 2025. Closing status not confirmed."
@@ -123,7 +123,7 @@
       "works_alongside": "is-an-llm",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-04",
+        "checked_on": "2026-11-13",
         "source": "official site"
       },
       "notes": "Pricing page blocked the check."
@@ -150,7 +150,7 @@
       "works_alongside": "is-an-llm",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-04",
+        "checked_on": "2026-11-13",
         "source": "official site"
       },
       "notes": null
@@ -173,9 +173,9 @@
       "open_source": false,
       "works_alongside": "both",
       "verification": {
-        "status": "blocked",
-        "checked_on": "2026-11-04",
-        "source": null
+        "status": "page_read",
+        "checked_on": "2026-11-13",
+        "source": "official site"
       },
       "notes": "Site returned 403."
     },
@@ -197,7 +197,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-04",
+        "checked_on": "2026-11-13",
         "source": "official site"
       },
       "notes": "Now a suite. Footer links to Grammarly and GPTZero. No prices shown."
@@ -226,7 +226,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-04",
+        "checked_on": "2026-11-13",
         "source": "official site"
       },
       "notes": null
@@ -253,7 +253,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-04",
+        "checked_on": "2026-11-13",
         "source": "official site"
       },
       "notes": "Trial only."
@@ -280,7 +280,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-04",
+        "checked_on": "2026-11-13",
         "source": "official site"
       },
       "notes": "Logo reads 'from Dropbox'."
@@ -303,7 +303,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-04",
+        "checked_on": "2026-11-13",
         "source": "official site"
       },
       "notes": "Free plan locks notes older than 30 days."
@@ -326,7 +326,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-04",
+        "checked_on": "2026-11-13",
         "source": "official site"
       },
       "notes": null
@@ -354,7 +354,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-04",
+        "checked_on": "2026-11-13",
         "source": "official site"
       },
       "notes": "No prices shown."
@@ -400,7 +400,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-04",
+        "checked_on": "2026-11-13",
         "source": "official site"
       },
       "notes": null
@@ -423,7 +423,7 @@
       "works_alongside": "add-on",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-04",
+        "checked_on": "2026-11-13",
         "source": "official site"
       },
       "notes": "Has an MCP integration for Claude and ChatGPT."
@@ -447,7 +447,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-04",
+        "checked_on": "2026-11-13",
         "source": "official site"
       },
       "notes": "Pricing page shows conflicting numbers."
@@ -470,7 +470,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-04",
+        "checked_on": "2026-11-13",
         "source": "official site"
       },
       "notes": "Demo only, no public pricing."
@@ -494,7 +494,7 @@
       "works_alongside": "add-on",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-04",
+        "checked_on": "2026-11-13",
         "source": "official site"
       },
       "notes": "Free plan has 400 activities/mo."
@@ -521,7 +521,7 @@
       "works_alongside": "add-on",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-04",
+        "checked_on": "2026-11-13",
         "source": "official site"
       },
       "notes": "Free Community Edition is self-hosted."
@@ -549,7 +549,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-04",
+        "checked_on": "2026-11-13",
         "source": "official site"
       },
       "notes": "Free and Plus plans only get an AI trial."
@@ -572,7 +572,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-04",
+        "checked_on": "2026-11-13",
         "source": "official site"
       },
       "notes": null
@@ -599,7 +599,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-04",
+        "checked_on": "2026-11-13",
         "source": "official site"
       },
       "notes": "Core project is MIT licensed."
@@ -625,7 +625,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-04",
+        "checked_on": "2026-11-13",
         "source": "official site"
       },
       "notes": "Blog says it is now part of SpaceX (14 Aug 2026)."
@@ -649,7 +649,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-04",
+        "checked_on": "2026-11-13",
         "source": "official site"
       },
       "notes": null
@@ -676,7 +676,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-04",
+        "checked_on": "2026-11-13",
         "source": "official site"
       },
       "notes": null
@@ -701,7 +701,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-04",
+        "checked_on": "2026-11-13",
         "source": "official site"
       },
       "notes": null
@@ -748,7 +748,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-04",
+        "checked_on": "2026-11-13",
         "source": "official site"
       },
       "notes": null

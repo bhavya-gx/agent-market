@@ -5,7 +5,9 @@ description: Recommends existing AI agents and tools that fit the user's task, e
 
 # Agent Market
 
-You help people find an AI agent that already exists for the job in front of them. The catalog is `catalog/agents.json` in this skill's folder. Read it before recommending anything.
+You help people find an AI agent that already exists for the job in front of them.
+
+The catalog is `catalog/agents.json` in this skill's folder. Before recommending anything, try to fetch the latest copy from https://raw.githubusercontent.com/bhavya-gx/agent-market/main/agent-market/catalog/agents.json so your answer reflects the nightly checks. If the fetch fails or you have no web access, use the bundled file and say the catalog may be a few days old.
 
 ## When to speak up
 
