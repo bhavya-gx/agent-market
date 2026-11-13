@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
-  pull-requests: write
+  issues: write
 jobs:
   nightly:
     runs-on: ubuntu-latest
@@ -17,7 +17,7 @@ jobs:
         run: python3 scripts/discover.py 1 > catalog-data/DISCOVERED.md || true
       - name: Validate
         run: python3 scripts/validate.py
-      - name: Open a pull request for review
+      - name: Push the branch and open a review issue
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
@@ -30,5 +30,5 @@ jobs:
           git diff --cached --quiet && { echo "nothing changed"; exit 0; }
           git commit -m "Nightly re-check and discovery, $d"
           git push -f origin "$b"
-          { cat catalog-data/CHANGES.md; echo; echo "## New candidates (not in the catalog, review before adding)"; echo; cat catalog-data/DISCOVERED.md; } > /tmp/body.md
-          gh pr create --title "Nightly: re-check and new candidates, $d" --body-file /tmp/body.md --base main --head "$b" --assignee "${{ github.repository_owner }}" || gh pr edit "$b" --body-file /tmp/body.md
+          { echo "Open the pull request to merge the refreshed dates: https://github.com/${{ github.repository }}/compare/main...$b?expand=1"; echo; cat catalog-data/CHANGES.md; echo; echo "## New candidates (not in the catalog, review before adding)"; echo; cat catalog-data/DISCOVERED.md; } > /tmp/body.md
+          gh issue create --title "Nightly check $d: changes and new candidates" --body-file /tmp/body.md --assignee "${{ github.repository_owner }}"
