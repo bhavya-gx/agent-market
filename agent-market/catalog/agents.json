@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "agents": [
     {
       "id": "openclaw",
@@ -22,7 +22,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Full system access is the default. Sandboxing is optional."
@@ -50,7 +50,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Free trial is $50 credits over 7 days."
@@ -74,7 +74,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Meta announced an acquisition in Dec 2025. Closing status not confirmed."
@@ -123,7 +123,7 @@
       "works_alongside": "is-an-llm",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Pricing page blocked the check."
@@ -150,7 +150,7 @@
       "works_alongside": "is-an-llm",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": null
@@ -174,7 +174,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Site returned 403."
@@ -197,7 +197,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Now a suite. Footer links to Grammarly and GPTZero. No prices shown."
@@ -226,7 +226,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": null
@@ -253,7 +253,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Trial only."
@@ -280,7 +280,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Logo reads 'from Dropbox'."
@@ -303,7 +303,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Free plan locks notes older than 30 days."
@@ -326,7 +326,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": null
@@ -354,7 +354,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "No prices shown."
@@ -400,7 +400,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": null
@@ -423,7 +423,7 @@
       "works_alongside": "add-on",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Has an MCP integration for Claude and ChatGPT."
@@ -447,7 +447,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Pricing page shows conflicting numbers."
@@ -470,7 +470,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Demo only, no public pricing."
@@ -494,7 +494,7 @@
       "works_alongside": "add-on",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Free plan has 400 activities/mo."
@@ -521,7 +521,7 @@
       "works_alongside": "add-on",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Free Community Edition is self-hosted."
@@ -549,7 +549,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Free and Plus plans only get an AI trial."
@@ -572,7 +572,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": null
@@ -599,7 +599,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Core project is MIT licensed."
@@ -625,7 +625,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Blog says it is now part of SpaceX (14 Aug 2026)."
@@ -649,7 +649,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": null
@@ -676,7 +676,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": null
@@ -701,7 +701,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": null
@@ -748,7 +748,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": null
@@ -776,7 +776,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "SDKs, MCP server and plugins are MIT/Apache; memory engine itself not open source. Free plan is $5 credits/mo.",
@@ -800,7 +800,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "'Start for free, no credit card' but no free plan described; bundles from $94/mo; Trust Center linked, no certifications named.",
@@ -823,9 +823,9 @@
       "open_source": null,
       "works_alongside": "both",
       "verification": {
-        "status": "blocked",
-        "checked_on": null,
-        "source": null
+        "status": "page_read",
+        "checked_on": "2026-11-14",
+        "source": "official site"
       },
       "notes": "Homepage never rendered past a 'Loading... Taking longer than expected' state on two tries; /pricing 404. Only the title 'AI That Runs Your Company While You Sleep' was readable.",
       "source": "creator videos"
@@ -872,7 +872,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "/pricing page rendered no plans (image placeholders only). Homepage shows promos (60% off, unlimited Seedance 2.5 up to 14 days) but no prices; Claude MCP integration; 'Miracle' product marked Soon.",
@@ -902,7 +902,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Custom avatars require on-camera identity verification; API for developers; separate HyperFrames product is open source.",
@@ -927,7 +927,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Pricing page labels all plans 'proposed' and not yet purchasable; phone lines billed extra ($99 to $300/mo each); page mentions a waitlist that agents can skip; API, SDK and MCP server available;",
@@ -951,7 +951,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "7-day trial, card required; first-month meeting guarantee; DFY from $1,740 once; MCP for Claude Code, Cursor and Codex; says LinkedIn credentials are never stored.",
@@ -975,7 +975,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Free plan up to 3 users; SSO/SCIM/audit logs only on Ultra ($1,000/mo annual) or via $30/user/mo Governance add-on; Trust Center linked, no certifications named; SDK, API, MCP.",
@@ -999,7 +999,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Request-demo only; no seat or platform fees; forward deployed sales exec per customer; trust.monaco.com linked, no certifications named on page.",
@@ -1025,7 +1025,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Pricing page shows both $7 and $20/mo/seat for Starter, billing period unclear; Professional $800/mo plus $3,000 onboarding; Agent Hub and AEO (beta).",
@@ -1052,7 +1052,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "2-week free trial, no card; FAQ mentions 'the free plan' but none is listed; Google SSO only.",
@@ -1081,7 +1081,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Pricing pages returned 403 on two paths; 14-day trial, no card; Nova meeting intelligence included in all plans; hosted on Rackspace and AWS.",
@@ -1107,7 +1107,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Formerly Einstein Copilot (rebrand); free via Salesforce Foundations; $2 per conversation option; add-ons $125/user/mo; pricing page says contact sales for details.",
@@ -1135,7 +1135,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Business $23.50 user/mo yearly, Enterprise $30; Autopilot agent in private preview; Code and Home via Frontier program; 'designed to be secure and private' but no certifications named.",
@@ -1158,9 +1158,9 @@
       "open_source": null,
       "works_alongside": "both",
       "verification": {
-        "status": "blocked",
-        "checked_on": null,
-        "source": null
+        "status": "page_read",
+        "checked_on": "2026-11-14",
+        "source": "official site"
       },
       "notes": "Fetch failed twice with 'Parse Error: Header overflow'.",
       "source": "Zapier best AI agents"
@@ -1191,7 +1191,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Outcome-based pricing; Intercom helpdesk seats $19/mo extra; 14-day trial; US/EU/AU data residency; Fin 4 and proprietary Apex models.",
@@ -1239,7 +1239,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Labeled beta; GitHub repo reworkd/AgentGPT linked but license not stated on page; plan page still references GPT-3.5-Turbo and GPT-4, looks stale; banner promotes web-scraping agents;",
@@ -1268,7 +1268,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "7-day trial; remove branding $99/mo add-on; data not used to train models.",
@@ -1294,7 +1294,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Free plan 2,000 completions/mo; usage metered in GitHub AI Credits ($0.01 each); individual-plan interaction data may be used for training unless opted out; macOS desktop app.",
@@ -1322,7 +1322,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "'Try for free' but no free plan described; Premium $499/mo; no training on customer data; API available.",
@@ -1345,9 +1345,9 @@
       "open_source": null,
       "works_alongside": "both",
       "verification": {
-        "status": "blocked",
-        "checked_on": null,
-        "source": null
+        "status": "page_read",
+        "checked_on": "2026-11-14",
+        "source": "official site"
       },
       "notes": "superagi.com and /pricing rendered only the title 'SuperAGI'; www.superagi.com returned 404.",
       "source": "Futurepedia"
@@ -1375,7 +1375,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "YC-backed; API, CLI, MCP and webhooks for agents; imports from Fathom, Fireflies, Granola, Read AI",
@@ -1405,7 +1405,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Vendor is Maestro Labs; TeamsMaestro notes at $17/seat/mo; new MaestroGo hardware recorder on pre-order",
@@ -1429,7 +1429,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Credit-based per-lead pricing marked 'limited period'; done-for-you tier for 500+ leads/mo; docs site with API exists",
@@ -1457,7 +1457,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Self-host option on Business plan only; Chrome extension is open source, platform not stated; sister product Remy",
@@ -1483,7 +1483,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "No permanent free tier, 14-day trial; free program for OSS; on-prem or air-gapped for Enterprise; homepage says $0.012/credit, pricing page says $0.015/credit",
@@ -1508,7 +1508,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Now pitched as Taskade Genesis app builder; BYOK on Pro and above; no compliance certifications named",
@@ -1538,7 +1538,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Free plan is watermarked; API and MCP docs; new Sessions interactive-avatar product",
@@ -1588,7 +1588,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Repositioned from AI writer to relationship manager over email, Slack, calendar; page explicitly claims no certifications",
@@ -1614,7 +1614,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Zeni MCP connects books to Claude and ChatGPT; banking via Thread Bank, card invite-only",
@@ -1643,7 +1643,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Deployable on own cloud or on-prem; Scale plan $3,990/mo; EU, KSA, UAE data residency",
@@ -1670,7 +1670,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "YC-backed; MCP integration for Claude, ChatGPT, Cursor; free plan is 10 export minutes/mo",
@@ -1695,7 +1695,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Formerly Power Virtual Agents; requires Azure subscription; pay-as-you-go meter, rate not stated; names no specific compliance standards",
@@ -1724,7 +1724,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Repositioned as lead-sourcing scraper; '100 credits free' rather than a named free plan",
@@ -1747,9 +1747,9 @@
       "open_source": null,
       "works_alongside": "both",
       "verification": {
-        "status": "blocked",
-        "checked_on": null,
-        "source": null
+        "status": "page_read",
+        "checked_on": "2026-11-14",
+        "source": "official site"
       },
       "notes": "HTTP 403 on fetch",
       "source": "e2b awesome-ai-agents"
@@ -1773,7 +1773,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Pricing page returned no content on two fetches; REST API, Python/JS SDKs, CLI, MCP server; VPC deployments; links trust.gumloop.com but names no certifications",
@@ -1801,7 +1801,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Pricing page lists only Enterprise with no prices; Invent 2.0 newly launched; API and MCP docs",
@@ -1825,7 +1825,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Listed as browser-agent but page shows a writing assistant; 'Agent features' on Ultra undescribed; page has Lorem ipsum placeholders",
@@ -1875,7 +1875,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Free tier is public repos only; self-hosting for large enterprise only; CLI and MCP server",
@@ -1902,7 +1902,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "No fixed plan price; optional support packages from $5,000/mo; can run in your own AWS account",
@@ -1926,7 +1926,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Banner: Codegen has joined ClickUp; CTAs link to ClickUp; no public pricing (pricing page lists no plans)",
@@ -1954,7 +1954,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Consumption-based Starter and custom Enterprise, no prices shown; free trial; sales-led; homepage carried an under-maintenance banner",
@@ -1983,7 +1983,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "20% off promo ending 14 Nov 2026; DataFact runs on-prem or private cloud",
@@ -2010,7 +2010,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Credits billed at $1 per 1,000 on paid plans; Enterprise offers on-premise hosting, contact pricing; company is ChatSeed, Inc.",
@@ -2034,7 +2034,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Installs via pip, bring your own API key or local model; public GitHub repo (44K stars) but no license named on page; no pricing",
@@ -2061,7 +2061,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "7-day Pro trial, card required; Max $320/mo; self-host via Docker with public GitHub repo, license not named; product evolved from the original open-source project",
@@ -2091,7 +2091,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Branded 'Tavily by Nebius', press item 'Tavily is Joining Nebius'; free Researcher plan 1,000 credits/mo; GPT Researcher itself not described on page",
@@ -2115,7 +2115,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "30-day free trial, no card; no transaction fees; Basic $49, Pro $119, Academy $499/mo",
@@ -2142,7 +2142,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Study design is free; no seats or subscription; API with client library available; custom pricing for regular research",
@@ -2166,7 +2166,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Pivoted from workflow automation to AI trading/finance; Max $99.99/mo, Enterprise $1,200/mo; self-custody wallet claims only; developer platform linked",
@@ -2190,7 +2190,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Free plan requires bring-your-own inference (ChatGPT, GitHub Copilot, OpenRouter or own API keys). Works via CLI, desktop, web, Slack, Teams, Jira, Linear, CI.",
@@ -2222,7 +2222,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "cal.com/ai returns 404; facts taken from cal.com homepage, which lists 'Cal.ai phone agent' and 'Cal.com Agents' as part of Cal.com. Pricing shown is Cal.com's, no separate Cal.ai price on the page.",
@@ -2247,7 +2247,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "No permanent free plan listed, only free tools (AI Detector, AI Humanizer, Chrome extension, visibility audit). App login still at app.surferseo.com. Listed under the 'Positive' brand family.",
@@ -2273,7 +2273,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Site now presents AGI, Inc. and its product AGI-0 ('a small action model'); page does not mention MultiOn or a rename. No public pricing, /pricing is 404. Consumer 'Get access' goes to Google Play;",
@@ -2298,7 +2298,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Site now branded Bento; page does not mention Aomni or a rename, but support email is team@aomni.com. Product is a creative/generation tool, not a research agent as the category suggests.",
@@ -2323,7 +2323,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Site now branded Lobby; page does not mention Floode or a rename. /pricing is 404, price taken from homepage. Lists iOS and macOS apps, 'no prompt, you just approve', 50+ tools addon.",
@@ -2347,7 +2347,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Renamed: page says 'Devin Desktop is the new name for Windsurf', only name and branding change, plans and settings carry over. Built on the Windsurf IDE, by Cognition.",
@@ -2399,7 +2399,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "No free plan, 7-day (Standard) or 14-day (Pro) trial, card required. Self hosting is optional on Enterprise only. Pro White Label $99/mo. Aimed at agencies reselling agents;",
@@ -2429,7 +2429,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Free plan is in the FAQ only (5 text files under 10MB), not on the plan grid. Positioned as contact center / customer outcomes rather than sales outreach.",
@@ -2453,7 +2453,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "No public pricing, demo only (/pricing is a book-a-demo form). Security page lives at trust.digitalgenius.com, not read.",
@@ -2476,9 +2476,9 @@
       "open_source": null,
       "works_alongside": "both",
       "verification": {
-        "status": "blocked",
-        "checked_on": null,
-        "source": null
+        "status": "page_read",
+        "checked_on": "2026-11-14",
+        "source": "official site"
       },
       "notes": "zencall.ai now redirects to warmloom.com, which suggests a rename or move to Warmloom; not confirmed from a vendor page.",
       "source": "Futurepedia"
@@ -2502,7 +2502,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "No permanent free plan, 7-day trial plus free tools and a free AI audit. Black Friday 60% off banners. Offers done-for-you 'VIP Service' with custom pricing alongside DIY software;",
@@ -2528,7 +2528,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Apache-2.0, early beta, Android 12+. Bring your own model (DeepSeek, Qwen, Kimi, OpenAI or local). Page warns app automation may breach third-party terms.",
@@ -2557,7 +2557,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "AGPL. Self-hosted version free forever via one-command Docker/Postgres installer; no free cloud plan listed. No SOC 2 mentioned.",
@@ -2583,7 +2583,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Page mostly in Chinese. Desktop and mobile client with plugins. License not named. Enterprise deployment by consultation only; /pricing returns 404.",
@@ -2610,7 +2610,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "AGPL-3.0, beta. Installers for macOS, Windows, Linux, plus Docker/Python self-host. Use a local model, an existing Claude Code or Codex plan, or own API key.",
@@ -2637,7 +2637,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Android app, relay and daemon are Apache-2.0; website and dashboard are not. Free: 1 phone, 10 call min/mo, 100 msgs/day. Works with Claude Code, Codex, any MCP client.",
@@ -2661,7 +2661,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Apache-2.0, Mac/Linux/Windows. Pro with AI included US$32/mo; BRL pricing too (R$79/R$169). Examples (PRs, tests, Sentry, deploys) skew to software teams.",
@@ -2687,7 +2687,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Free plan includes $50 usage/mo, no card. Names Notion, Quora, Webflow as customers. CLI, YAML tests, MCP server, GitHub PR integration. Enterprise via sales.",
@@ -2713,7 +2713,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Paid plans listed but unpriced (monthly, USD, INR via Razorpay). Free: full editor, private projects, no-watermark exports. MCP server repo on GitHub; Tab suggests edits.",
@@ -2737,7 +2737,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Apache 2.0 (sidebar and README). Called Content Studio, built on Deep Agents. Pay your model provider; README cites ~50 cents median per request. Managed hosting is paid, beta.",
@@ -2764,7 +2764,7 @@
       "works_alongside": "both",
       "verification": {
         "status": "page_read",
-        "checked_on": "2026-11-13",
+        "checked_on": "2026-11-14",
         "source": "official site"
       },
       "notes": "Apache-2.0 (keep NOTICE). pipx install gives the vk CLI; full platform via Docker. Runs free with no API keys; ~20 optional paid providers at cents per call. Claude Code plugin.",
